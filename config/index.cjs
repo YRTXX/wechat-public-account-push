@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: wxb1d8c70476a1538f
+  APP_ID: ' wxb1d8c70476a1538f',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: be8dc9498ce72d4350dc247a960e108c
+  APP_SECRET: ' be8dc9498ce72d4350dc247a960e108c',
 
   PROVINCE: '湖北',
   CITY: '恩施巴东',
